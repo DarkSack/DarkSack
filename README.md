@@ -21,7 +21,7 @@
 ##### Si eres un experto en bases de datos o simplemente apasionado por el tema, ¡tu ayuda es invaluable! Estoy abierto/a a consejos, mejores prácticas, recomendaciones de recursos y cualquier información que pueda enriquecer mi comprensión de SQL y NoSQL.
 
 ### 📫 Cómo contactar conmigo: ...
-<a href="www.linkedin.com/in/johan-jafet-del-valle-santiago-3257a62a1">
+<a href="https://www.linkedin.com/in/johan-jafet-del-valle-santiago-3257a62a1/">
   <img src="https://api.iconify.design/devicon/linkedin.svg" alt="Linkedin" width="100" height="100">
 </a>
 
