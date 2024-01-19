@@ -1,5 +1,4 @@
-<h1>Hola a todos</h1>
-  <img src="https://nvzfrxfhrwxxxkwlzenp.supabase.co/storage/v1/object/public/personal/Sackk.jpg" alt="Sack">
+<img src="https://nvzfrxfhrwxxxkwlzenp.supabase.co/storage/v1/object/public/personal/Sackk.jpg" alt="Sack">
 
 ## ¡Hola! Soy Johan Jafet, y estoy emocionado de compartir contigo mi proyecto personal, el Blog del Sack. Este proyecto está diseñado para fortalecer mis habilidades en tecnologías como JavaScript, ReactJS, bases de datos, y HTML
 
