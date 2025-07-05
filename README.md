@@ -26,7 +26,3 @@
 <a href="mailto:johanjafet4@gmail.com/">
   <img src="https://api.iconify.design/logos/google-gmail.svg" alt="GMAIL" width="100" height="100">
 </a>
-
-<a href="https://www.facebook.com/donsackito/">
-<img src="https://api.iconify.design/devicon/facebook.svg" alt="Facebook" width="100" height="100">
-</a>
