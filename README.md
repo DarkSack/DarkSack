@@ -183,11 +183,6 @@ Hacer stream me enseñó dos cosas que se colaron en cómo trabajo:
 ## 📈 Stats de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkSack&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSack&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkSack&theme=github-dark&hide_border=true" height="170" />
 </p>
 
