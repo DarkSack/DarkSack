@@ -1,66 +1,216 @@
-<h1 align="center">Hola 👋 Soy Johan Jafet — <i>Sack</i></h1>
+<h1 align="center">Johan Jafet Del Valle Santiago · <i>Sack</i> 👾</h1>
 
 <p align="center">
-  <b>Desarrollador Full-Stack</b> — construyo apps web, móviles, bots y herramientas que resuelven problemas concretos.
+  <b>Desarrollador Full-Stack</b> · React · React&nbsp;Native · Next.js · Node · TypeScript · Java
+  <br/>
+  <sub>Envío productos que funcionan. Y mis métricas también hablan de gestión y liderazgo técnico.</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/johan-jafet-del-valle-santiago-3257a62a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:johanjafet4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://blogdelsack.vercel.app/"><img src="https://img.shields.io/badge/Blog-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://x.com/SackAnomalo"><img src="https://img.shields.io/badge/@SackAnomalo-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Veracruz,%20MX-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🧠 En 10 segundos
 
-Ingeniero en Tecnologías de la Información. Vivo el ciclo completo del producto: front-end, back-end, móvil, integraciones con IA, deploy y observabilidad. Prefiero enviar cosas que resuelven algo real a acumular repos vacíos. En paralelo, lidero un equipo de 16 personas en Teleperformance donde llevé el NPS de 12&nbsp;% a 47&nbsp;% y la conversión de ventas de 53&nbsp;% a 74&nbsp;% — combino ese hueso de gestión y métricas con el código del día a día.
+Ingeniero en TIC con perfil **full-stack** real: **React / React Native / Next.js** en frontend, **Node/Express + Next API + Supabase/PostgreSQL** en backend, integraciones con **IA** (Groq, Replicate) y publicación de herramientas propias en **npm**. Mantengo 13+ repos públicos con proyectos **en producción** — no demos ni forks. En paralelo lidero un equipo de 16 personas en Teleperformance (cuenta Comcast, EE. UU.).
 
 ---
 
-## 🚀 Qué está hecho y para qué
+## 📊 Impacto medible
 
-| Proyecto | Qué hace |
+| Área                                 | Antes | Ahora | Δ           |
+| ------------------------------------ | ----- | ----- | ----------- |
+| **NPS** del equipo (Teleperformance) | 12&nbsp;% | 47&nbsp;% | **+35 pts** |
+| **Conversión de ventas**             | 53&nbsp;% | 74&nbsp;% | **+21 pts** |
+| **Personas lideradas**               | 0     | 16    | ↑           |
+| **Tiempo de carga** de una vista crítica (Inclan) | 100&nbsp;% | 65&nbsp;% | **−35&nbsp;%** |
+| **Años codeando en producción**      | —     | **4+** | ↑           |
+
+---
+
+## 🛠 Stack diario
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" alt="JS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" alt="TS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" alt="Next" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="38" alt="Astro" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="38" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="38" alt="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" alt="Node" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="38" alt="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="38" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="38" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" width="38" alt="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="38" alt="Ionic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" width="38" alt="Capacitor" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="38" alt="Electron" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="38" alt="Vercel" />
+</p>
+
+<details>
+<summary><b>Stack detallado por capa</b></summary>
+
+| Capa                | Herramientas                                                                                       |
+| ------------------- | -------------------------------------------------------------------------------------------------- |
+| **Frontend web**    | React 18/19, Next.js 15, Astro 4, Vite 5/7, TailwindCSS, shadcn/ui, Radix, Chakra, MUI, Bootstrap  |
+| **Móvil / híbrido** | React Native, Expo (Router + SDK 50/53), Ionic 8, Capacitor 6                                      |
+| **Backend**         | Node.js (ESM), Express, Next.js API Routes, Serverless (Vercel), Playwright, Cron                  |
+| **APIs**            | REST, GraphQL (Apollo, pg_graphql), JWT, rate-limiter-flexible, CORS, PostgREST                    |
+| **Base de datos**   | PostgreSQL, Supabase, SQLite, Firebase, IndexedDB, AsyncStorage                                    |
+| **IA**              | Groq SDK (LLM), Replicate (imagen)                                                                 |
+| **Testing**         | Cypress (E2E), Vitest, Testing Library, Jest                                                       |
+| **Java / Minecraft**| Paper API, Bukkit, Maven                                                                           |
+| **DevOps / deploy** | Git & GitHub, Vercel, publishing to **npm**                                                        |
+| **Idiomas**         | Español nativo · Inglés **B2** (2 años atendiendo y liderando clientes en EE. UU.)                 |
+
+</details>
+
+---
+
+## 📦 Proyectos destacados (lo que está vivo)
+
+### 🐉 Producto propio en desarrollo
+
+**[RPGRollSack](https://github.com/DarkSack/RPGRollSack)** + **[RPGRollDocs](https://github.com/DarkSack/RPGRollDocs)** — Framework RPG modular para servidores Minecraft (Paper).
+
+- Arquitectura desacoplada de **21 componentes**: 1 core + 20 addons instalables y versionables por separado.
+- Asset pipeline propio de resource packs (**SackResourcePack**) aislado del ecosistema.
+- Sitio web y documentación en Vercel: [rpg-roll-docs.vercel.app](https://rpg-roll-docs.vercel.app).
+- **Lanzamiento comercial previsto: septiembre 2026.**
+
+### ⚙️ Full-stack + IA
+
+| Repo | Qué hace |
 | --- | --- |
-| [**blogdelsack**](https://github.com/DarkSack/blogdelsack) | Mi blog + portfolio web: landing pública con mis repos de GitHub y una zona social con posts, noticias y redes; login con GitHub para reaccionar y comentar. |
-| [**BlogMobile**](https://github.com/DarkSack/BlogMobile) | Versión móvil del blog (WIP) — Expo listo con Supabase + Apollo ya cableados. |
-| [**NxS**](https://github.com/DarkSack/NxS) | Certificado de autenticidad por QR para fundas de móvil NxS: admin registra fundas y genera QR, el cliente escanea y verifica si es original. |
-| [**DnDBackend**](https://github.com/DarkSack/DnDBackend) | Backend de una plataforma de mesas de rol: genera personajes y campañas medievales-fantásticos con IA (Groq), auth y salas de juego. |
-| [**cvpro**](https://github.com/DarkSack/cvpro) | Arma tu CV paso a paso, lo pule con IA y lo exporta en PDF. También importa un PDF existente y extrae su texto. |
-| [**telebot**](https://github.com/DarkSack/telebot) | Bot de Telegram que vigila precios de Amazon con Playwright y te avisa cuando bajan; historial + resumen diario por cron. |
-| [**twitch_commands**](https://github.com/DarkSack/twitch_commands) | Colección de endpoints HTTP para bots de Twitch (Nightbot/StreamElements/Botrix): `!ruleta`, `!duelo`, `!8ball`, `!adivinanza`, `!ruletarusa`… |
-| [**sackitohub**](https://github.com/DarkSack/sackitohub) | App híbrida (Ionic + Capacitor) que recibe URLs de YouTube/Spotify/TikTok y descarga el contenido. |
-| [**sackiwallet**](https://github.com/DarkSack/sackiwallet) | App móvil de finanzas personales (WIP): balance, movimientos y metas de ahorro con almacenamiento local. |
-| [**create-sackapp**](https://github.com/DarkSack/create-sackapp) | CLI publicado en npm: `npm create sackapp@latest` te deja un proyecto Vite + React + Tailwind + shadcn/ui en 2 preguntas. |
-| [**Portfolio**](https://github.com/DarkSack/Portfolio) | Mi CV/portfolio online en Astro, editable desde un JSON, con paleta de comandos (⌘K) y ES/EN. |
-| [**PsychoBack**](https://github.com/DarkSack/PsychoBack) | Semilla del backend para Psycho App (acompañamiento psicológico). WIP. |
-| [**RPGRollSack**](https://github.com/DarkSack/RPGRollSack) + [**RPGRollDocs**](https://github.com/DarkSack/RPGRollDocs) | Framework RPG modular para servidores Minecraft (Paper) — 21 componentes + web de documentación pública. |
+| [**DnDBackend**](https://github.com/DarkSack/DnDBackend) | Backend Next.js 15 + Supabase para plataforma web de mesas de rol. Genera personajes y campañas medieval-fantásticas con IA (Groq + Replicate), auth con JWT, salas de juego y sistema de amigos. |
+| [**DnDOnline**](https://github.com/DarkSack/DnDOnline) | Frontend de la plataforma — React + Vite + TypeScript con shadcn/ui. Consume DnDBackend. |
+| [**cvpro**](https://github.com/DarkSack/cvpro) | Herramienta web que arma tu CV paso a paso, lo pule con IA (Groq) desde tus notas o desde un PDF que subas, y lo exporta en PDF listo para enviar. |
+
+### 🤖 Automatización y bots
+
+| Repo | Qué hace |
+| --- | --- |
+| [**telebot**](https://github.com/DarkSack/telebot) | Bot de Telegram que scrapea productos de Amazon con **Playwright**, guarda historial, notifica cuando bajan de precio y manda resumen diario por cron. |
+| [**twitch_commands**](https://github.com/DarkSack/twitch_commands) | **14+** endpoints HTTP listos para bots de Twitch (Nightbot, StreamElements, Botrix): `!ruleta`, `!duelo`, `!8ball`, `!adivinanza`, `!ruletarusa`, `!insulto`, `!cumplido`, `!dice`, `!flip`… |
+
+### 🛠 Herramientas para developers
+
+| Repo | Qué hace |
+| --- | --- |
+| [**create-sackapp**](https://github.com/DarkSack/create-sackapp) | **CLI publicado en [npm](https://www.npmjs.com/package/create-sackapp)** — `npm create sackapp@latest` te deja un proyecto Vite + React + TailwindCSS + shadcn/ui listo para producción en 2 preguntas. |
+
+### 📱 Móvil e híbrido
+
+| Repo | Qué hace |
+| --- | --- |
+| [**sackitohub**](https://github.com/DarkSack/sackitohub) | App **Android + iOS + Web** con Ionic + React + Capacitor 6. Recibe URLs de YouTube (y en breve Spotify/TikTok), extrae info del video y lo descarga. Con tests **E2E (Cypress)** y **unitarios (Vitest)**. |
+
+### 🌐 Web y contenido
+
+| Repo | Qué hace |
+| --- | --- |
+| [**blogdelsack**](https://github.com/DarkSack/blogdelsack) | Mi blog personal — posts, noticias, redes sociales, comandos de Twitch, sugerencias de juegos. React + Supabase + Apollo/GraphQL. |
+| [**Portfolio**](https://github.com/DarkSack/Portfolio) | Mi CV/portfolio online en **Astro**, contenido editable desde JSON, paleta de comandos con ⌘K y versión ES/EN. |
+
+### 🆔 Verificación de producto
+
+| Repo | Qué hace |
+| --- | --- |
+| [**NxS**](https://github.com/DarkSack/NxS) | Sistema de **certificado de autenticidad por QR** para fundas de móvil de la marca NxS: el admin registra cada funda y el cliente escanea el QR para verificar si es original. En producción en [nx-s.vercel.app](https://nx-s.vercel.app). |
 
 ---
 
-## 🛠 Con qué trabajo
+## 💼 Experiencia profesional
 
-<p align="left">
-  <img src="https://api.iconify.design/logos/javascript.svg" alt="JS" width="42" height="42" />
-  <img src="https://api.iconify.design/logos/typescript-icon.svg" alt="TS" width="42" height="42" />
-  <img src="https://api.iconify.design/logos/react.svg" alt="React" width="42" height="42" />
-  <img src="https://api.iconify.design/logos/nextjs-icon.svg" alt="Next" width="42" height="42" />
-  <img src="https://api.iconify.design/logos/astro.svg" alt="Astro" width="42" height="42" />
-  <img src="https://api.iconify.design/logos/tailwindcss-icon.svg" alt="Tailwind" width="42" height="42" />
-  <img src="https://api.iconify.design/logos/nodejs-icon.svg" alt="Node" width="42" height="42" />
-  <img src="https://api.iconify.design/logos/supabase-icon.svg" alt="Supabase" width="42" height="42" />
-  <img src="https://api.iconify.design/logos/graphql.svg" alt="GraphQL" width="42" height="42" />
-  <img src="https://api.iconify.design/logos/expo-icon.svg" alt="Expo" width="42" height="42" />
-  <img src="https://api.iconify.design/logos/ionic-icon.svg" alt="Ionic" width="42" height="42" />
+**Supervisor de Operaciones** · Teleperformance (cuenta Comcast) · *Jun 2026 – Actualidad*
+- Lidero **16 agentes** de soporte técnico bilingüe para clientes de Comcast en EE. UU.
+- Elevé el **NPS mensual del 12&nbsp;% al 47&nbsp;%** con coaching individual, revisión de llamadas y planes de acción.
+- Subí la **conversión de ventas del 53&nbsp;% al 74&nbsp;%** reforzando venta consultiva.
+
+**Soporte Técnico Bilingüe** · Teleperformance (Comcast) · *Nov 2024 – Jun 2026*
+- Atención en inglés a clientes de EE. UU. Documentación exhaustiva de casos.
+- Reduje el reproceso de escalados estructurando reportes de segundo nivel.
+
+**Desarrollador Frontend** · Inclan Interactive · *Ene 2022 – Dic 2023*
+- Bajadé en **35&nbsp;%** el tiempo de carga de una vista crítica (imágenes + lazy loading).
+- Interfaces responsivas desde Figma para desktop, tablet y móvil.
+- Componentes reutilizables en React que aceleraron el desarrollo posterior.
+- Buenas prácticas de accesibilidad (HTML semántico, contraste, teclado).
+
+---
+
+## 🎓 Formación
+
+**Ingeniería en Tecnologías de la Información y Comunicaciones**
+Instituto Tecnológico Superior de Álamo Temapache, Veracruz, MX · 2019–2025
+
+---
+
+## 🎮 Faceta streamer
+
+Aparte del código, también **hago stream** y creo contenido de videojuegos. Es de donde nace el apodo **Sack** y varios proyectos públicos:
+
+- 📝 **blogdelsack** — mi blog personal como streamer.
+- 🎮 **twitch_commands** — la baúl de comandos que uso en mi propio canal, empaquetada como API.
+
+<p>
+  <a href="https://twitch.tv/sackanomalo"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://x.com/SackAnomalo"><img src="https://img.shields.io/badge/X%20@SackAnomalo-000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
+
+Hacer stream me enseñó dos cosas que se colaron en cómo trabajo:
+
+1. **Explicar en directo** algo técnico a gente no técnica. Mejor onboarding, mejor documentación, mejores commits.
+2. **Enviar y después pulir.** Un stream nunca sale perfecto — arrancas, iteras, mejoras. Ese loop lo aplico igual al software.
+
+---
+
+## 📈 Stats de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkSack&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSack&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkSack&theme=github-dark&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🤝 Busco colaborar en
+
+- Productos SaaS con **React / Next.js** y **Node**.
+- Apps móviles con **React Native / Expo / Ionic**.
+- Integraciones con **IA** (Groq, OpenAI, Replicate) donde la clave sea el prompt engineering + el UX.
+- Herramientas para creadores de contenido (streamers, YouTubers) o bots de comunidad.
 
 ---
 
 ## 📬 Contacto
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/johan-jafet-del-valle-santiago-3257a62a1/">
-    <img src="https://api.iconify.design/devicon/linkedin.svg" alt="LinkedIn" width="52" height="52" />
-  </a>
-  <a href="mailto:johanjafet4@gmail.com">
-    <img src="https://api.iconify.design/logos/google-gmail.svg" alt="Gmail" width="52" height="52" />
-  </a>
+<p>
+  <b>Email:</b> <a href="mailto:johanjafet4@gmail.com">johanjafet4@gmail.com</a><br/>
+  <b>Teléfono:</b> +52 783 139 0096<br/>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/johan-jafet-del-valle-santiago-3257a62a1/">linkedin.com/in/sackito</a><br/>
+  <b>Ubicación:</b> Veracruz, México
 </p>
 
 ---
 
-<p align="center"><i>Made with 💻 and ☕ by Sack.</i></p>
+<p align="center"><i>Made with 💻, ☕ and stream vibes by <b>Sack</b>.</i></p>
