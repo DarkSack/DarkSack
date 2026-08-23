@@ -169,8 +169,8 @@ Aparte del código, también **hago stream** y creo contenido de videojuegos. Es
 - 🎮 **twitch_commands** — la baúl de comandos que uso en mi propio canal, empaquetada como API.
 
 <p>
-  <a href="https://twitch.tv/sackanomalo"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-  <a href="https://x.com/SackAnomalo"><img src="https://img.shields.io/badge/X%20@SackAnomalo-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://twitch.tv/sackitogamer"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://x.com/SackTheCrack"><img src="https://img.shields.io/badge/X%20@SackTheCrack-000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 Hacer stream me enseñó dos cosas que se colaron en cómo trabajo:
