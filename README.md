@@ -18,7 +18,7 @@
 
 ## 🧠 En 10 segundos
 
-Ingeniero en TIC con perfil **full-stack** real: **React / React Native / Next.js** en frontend, **Node/Express + Next API + Supabase/PostgreSQL** en backend, integraciones con **IA** (Groq, Replicate) y publicación de herramientas propias en **npm**. Mantengo 13+ repos públicos con proyectos **en producción** — no demos ni forks. En paralelo lidero un equipo de 16 personas en Teleperformance (cuenta Comcast, EE. UU.).
+Ingeniero en TIC con perfil **full-stack** real: **React / React Native / Next.js** en frontend, **Node/Express + Next API + Supabase/PostgreSQL** en backend, integraciones con **IA** (Groq, Replicate) y publicación de herramientas propias en **npm**. Mantengo 13+ repos públicos con proyectos **en producción** — no demos ni forks. En paralelo lidero un equipo de 15 personas en Teleperformance (cuenta Comcast, EE. UU.).
 
 ---
 
@@ -138,9 +138,9 @@ Ingeniero en TIC con perfil **full-stack** real: **React / React Native / Next.j
 ## 💼 Experiencia profesional
 
 **Supervisor de Operaciones** · Teleperformance (cuenta Comcast) · *Jun 2026 – Actualidad*
-- Lidero **16 agentes** de soporte técnico bilingüe para clientes de Comcast en EE. UU.
+- Lidero **15 agentes** de soporte técnico bilingüe para clientes de Comcast en EE. UU.
 - Elevé el **NPS mensual del 12&nbsp;% al 47&nbsp;%** con coaching individual, revisión de llamadas y planes de acción.
-- Subí la **conversión de ventas del 53&nbsp;% al 74&nbsp;%** reforzando venta consultiva.
+- Subí la **conversión de ventas del 53&nbsp;% al 100&nbsp;%** reforzando venta consultiva.
 
 **Soporte Técnico Bilingüe** · Teleperformance (Comcast) · *Nov 2024 – Jun 2026*
 - Atención en inglés a clientes de EE. UU. Documentación exhaustiva de casos.
