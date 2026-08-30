@@ -28,7 +28,6 @@ Ingeniero en TIC con perfil **full-stack** real: **React / React Native / Next.j
 | ------------------------------------ | ----- | ----- | ----------- |
 | **NPS** del equipo (Teleperformance) | 12&nbsp;% | 47&nbsp;% | **+35 pts** |
 | **Conversión de ventas**             | 53&nbsp;% | 100&nbsp;% | **+47 pts** |
-| **Personas lideradas**               | 15     | 15    | ↑           |
 | **Tiempo de carga** de una vista crítica (Inclan) | 100&nbsp;% | 65&nbsp;% | **−35&nbsp;%** |
 | **Años codeando en producción**      | —     | **4+** | ↑           |
 
